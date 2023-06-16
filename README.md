@@ -1,2 +1,2 @@
-# exercic1
+# exe1
  
